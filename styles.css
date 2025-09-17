@@ -4,7 +4,14 @@
     }
     #output {
       margin-top: 20px;
-      color: darkblue;
+      color: orangered;
     }
 
-    
+    button{
+      background-color: orangered;
+      color: white;
+      border: none;
+      
+      
+    }
+
